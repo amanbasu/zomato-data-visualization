@@ -4,6 +4,10 @@ Collaborators: [Aman](https://github.com/amanbasu), [Amar](https://github.com/th
 
 View notebook [here](https://nbviewer.org/github/amanbasu/zomato-data-visualization/blob/master/viz-notebook.ipynb).
 
+<p align="center">  
+  <img align="center" src="figures/cover_photo.png" width="70%"/>
+</p>
+
 The goal of this project is to create visualizations that thoroughly analyzes restaurant directory information in order to answer specific food-related queries. As part of this framework, we hope to add rich visualizations based on restaurant meta-data such as location, pricing, ratings, and cuisine to aid in the resolution of various issues.
 
 Our solution can help solve the problems for two buckets of people -
