@@ -31,4 +31,4 @@ We exhibit various visualizations of restaurant data in India throughout the stu
 
 ## Dataset
 
-This dataset has been pulled from Kaggle ([Zomato India Restaurants(2 lakh restaurants data)](https://www.kaggle.com/ngokulakannan/zomato-india-restaurants2-lakh-restaurants-data)). It contains 224,520 restaurant and 17 columns/attributes. The major attributes are restaurant name, city, rating, latiitude, longitude, famous food, and cuisine. This will be the primary dataset for all the statistical analysis and visualizations.
+This dataset has been pulled from Kaggle [Zomato India Restaurants(2 lakh restaurants data)](https://www.kaggle.com/ngokulakannan/zomato-india-restaurants2-lakh-restaurants-data). It contains 224,520 restaurant and 17 columns/attributes. The major attributes are restaurant name, city, rating, latiitude, longitude, famous food, and cuisine. This will be the primary dataset for all the statistical analysis and visualizations.
